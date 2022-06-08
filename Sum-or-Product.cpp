@@ -29,6 +29,7 @@ Sample Input 3 :
 Sample Output 3 :
 -1 */ 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 #include<iostream>
 using namespace std;
 
@@ -48,9 +49,6 @@ void Product(int n){
         }
     cout<<count;
 }
-
-
-
 int main() {
 	int N,C; cin>>N>>C;
     
